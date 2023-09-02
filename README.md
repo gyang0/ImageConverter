@@ -1,3 +1,4 @@
 # ImageConverter
-Converts grayscale images to an array of strings
+Converts grayscale images to an array of strings.
+
 Image must be provided.
